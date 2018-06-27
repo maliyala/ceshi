@@ -1,0 +1,5 @@
+package com.itcast.pattern;
+
+public interface MediaPlayer {
+    public void play(String audioType, String filename);
+}
